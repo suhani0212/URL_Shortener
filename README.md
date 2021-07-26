@@ -2,6 +2,7 @@
 This is URL Shortener app developed using React, Node.js, Typescript and MongoDB
 
 INSTALL 
+
 npm install react-scripts --save  
 in ui folder
 
