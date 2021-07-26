@@ -8,12 +8,9 @@ in ui folder
 
 USAGE
 
-Go to server folder and run the cmd
+Go to server folder and run the cmd 'yarn dev'
 
-yarn dev
+Then go to ui folder and run the cmd 'yarn start'
 
-Then go to ui folder and run the cmd
-
-yarn start
 
 This will run the app in http://localhost:3000
